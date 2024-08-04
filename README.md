@@ -24,7 +24,6 @@ Experienced in Java Angular Full Stack Development with 3 years of hands-on expe
   ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java) 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
   ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) 
-  ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql) 
   ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5) 
   ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
   
@@ -48,7 +47,7 @@ Experienced in Java Angular Full Stack Development with 3 years of hands-on expe
   ---
 
 
-## 🧑‍💻Work Experience (3+ years)
+## Work Experience (3+ years)
 
 ### Senior System Engineer at INFOSYS
 **Sep 2021 - Present**
@@ -61,7 +60,6 @@ Experienced in Java Angular Full Stack Development with 3 years of hands-on expe
 **Technologies Utilized:**
 - **Languages:**
   ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 
 - **Frameworks and Libraries:**
